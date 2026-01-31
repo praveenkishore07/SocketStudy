@@ -98,7 +98,7 @@ s.close()
 
 
 ## Output 
-```
+
 
 ## Server Side 
 
@@ -107,6 +107,6 @@ s.close()
 ## Client Side 
 
 <img width="1277" height="982" alt="clientside" src="https://github.com/user-attachments/assets/3fa3ecb5-e79c-493d-afe3-2af05771acc2" />
-```
+
 ## Result:
 Thus the study of Socket Programming Completed Successfully
