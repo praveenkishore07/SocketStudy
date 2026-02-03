@@ -53,7 +53,7 @@ Socket programming finds applications in various domains, including web developm
 4.	Networked Games: Online multiplayer games rely on socket programming to facilitate communication between game clients and servers.
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
 
-## Algorithm -
+## Algorithm 
 
 1. Start the Program.
 2. Initialize the socket for the server and client side.
@@ -61,12 +61,11 @@ Socket programming finds applications in various domains, including web developm
  bind socket: bind()
  listen: listen() 
  Accept connection: accept()
- Data exchange: send() , recv()
  close : close()
 4.client side -
  Connection:connect() 
- Data exchange: send(), recv()
  close: close()
+
 5.The Socket is successfully established.
 
 
