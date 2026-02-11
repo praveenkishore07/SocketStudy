@@ -54,21 +54,19 @@ Socket programming finds applications in various domains, including web developm
 5.	RPC mechanisms: which allow processes to execute code on a remote server, often use socket programming for communication.
 
 ## Algorithm 
-```
- 1. Start the Program.
- 2. Initialize the socket for the server and client side.
- 3.server side -
- bind socket: bind()
- listen: listen() 
- Accept connection: accept()
- close : close()
- 4.client side -
- Connection:connect() 
- close: close()
+1.Start the Program.
+2.Initialize the socket for the server and client side.
+3.server side -
+	 bind socket: bind()
+	 listen: listen() 
+	 Accept connection: accept()
+	 close : close()
+4.client side -
+	 Connection:connect() 
+	 close: close()
 
- 5.The Socket is successfully established.
+5.The Socket is successfully established.
 
-```
 ## Program
 ```
 Server
